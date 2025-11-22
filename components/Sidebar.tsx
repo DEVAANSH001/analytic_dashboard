@@ -112,7 +112,7 @@ const AppSidebar = () => {
                     </Link>
                   </SidebarMenuButton>
                   {item.title === "Inbox" && (
-                    <SidebarMenuBadge>24</SidebarMenuBadge>
+                    <SidebarMenuBadge>2</SidebarMenuBadge>
                   )}
                 </SidebarMenuItem>
               ))}
